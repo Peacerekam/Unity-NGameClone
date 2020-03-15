@@ -3,4 +3,4 @@ WIP Unity project inspired by the NGame (zaliczenie na Wprowadzenie do tworzenia
 
 - Map Editor
 - Highscore tracking
-<img src="https://i.imgur.com/bwmJIqG.gif">
+<img src="https://i.imgur.com/bwmJIqG.gif"> <img src="https://i.imgur.com/6zpiMoZ.gif">
