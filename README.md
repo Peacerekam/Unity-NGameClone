@@ -1,5 +1,5 @@
 # Unity-NGameClone
-WIP Unity project inspired by the NGame (zaliczenie na Wprowadzenie do tworzenia gier wideo)
+Unity project inspired by the NGame (zaliczenie na Wprowadzenie do tworzenia gier wideo)
 <br><br>
 - Map Editor<br>
 - Highscore tracking etc<br>
